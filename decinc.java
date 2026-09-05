@@ -6,7 +6,9 @@ public class decinc {
         if(n==0) return ;
         System.out.println(n);
         inde(n-1);
+        if(n!=1){
         System.out.println(n);
     }
+}
 }
 
