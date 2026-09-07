@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class reverse {
+public class revarse {
 
     static int rev(int n, int rev) {
 
